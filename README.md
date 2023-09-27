@@ -1,5 +1,19 @@
 # Leaflet layer swipe plug-in
 
+For comparing / demos of map layers.
+
+Change layers in main.js
+
+Demo at https://layerswiper.rise3d-dev.nl/
+
+Depploy with 
+
+    caprover deploy --default
+
+
+
+---
+
 ## Demo:
 http://lkanggithub.github.io/leaflet.plugin.layerswiper/index.html
 
